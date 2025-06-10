@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hey there! I'm **hkhwileh/hkhwileh** 
+👋 Hey there! I'm **Hassan Khwileh** 
 🚀 Lead Data Scientist | 🎓 IEEE CertifAIEd Lead Assessor 
 🌌 Passionate about Artificial Intelligence, Generative AI, and cutting-edge Large Language Models (LLMs).
 
